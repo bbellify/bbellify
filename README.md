@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Web developer building tools for sovereignty
+## web developer building tools for sovereignty
 
 - 🔭 I’m currently working on ...
 
