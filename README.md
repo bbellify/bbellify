@@ -10,6 +10,8 @@ Now I'm a web developer building tools for sovereignty.
     - <a href='https://github.com/bbellify/sucsandsched-backend'>backend</a>
   - <a href='http://www.hypotenusehandmade.shop/'>hypotenuse handmade</a>, a bitcoin native small business web store
 
+</br>
+
 <!-- ## 🌱 I’m currently learning ... -->
 
 ## 🔌 Skills/Interests:
@@ -22,8 +24,6 @@ Now I'm a web developer building tools for sovereignty.
 - 🛠️ Tools: Node.js, PostgreSQL, SQLite, VSCode, Postman
 
 - 👾 Interests: Bitcoin, Lightning, Urbit, Umbrel, BTCPayServer
-
-
 
 ## 📌 Things I've never done but would like to try:
   - copy writing
