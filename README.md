@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## web developer building tools for sovereignty
 
-### 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
   - <a href='https://www.sucsandsched.netlify.app'>sucs and sched</a>, a running club web app
     - <a href='https://github.com/bbellify/sucsandsched-frontend'>frontend</a>
     - <a href='https://github.com/bbellify/sucsandsched-backend'>backend</a>
