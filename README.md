@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 
+- 📌 Things I've never done but would like to try ...
+  - copy writing
+
