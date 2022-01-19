@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Brian B
 
-I'm a web developer building tools for sovereignty. 
-
 In past lives, I've been a hotel manager, a small business manager, a teacher (pre-K, college), and a bunch of other things.
+
+Now I'm a web developer building tools for sovereignty. 
 
 ## 🔭 I’m currently working on ...
   - <a href='https://www.sucsandsched.netlify.app'>sucs and sched</a>, a running club web app
