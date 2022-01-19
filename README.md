@@ -23,5 +23,18 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning ...
 
+
+### 🔌 Skills/Interests
+
+✍️ Languages: JavaScript, SQL, HTML, and CSS
+
+⚙️ Frameworks: React.js, Express.js, Jest
+
+📚 Libraries: BootStrap, Redux.js, SuperTest, Knex.js, Yup
+
+🛠️ Tools: Node.js, PostgreSQL, SQLite, VSCode, Postman
+
+
+
 ### 📌 Things I've never done but would like to try ...
   - copy writing
