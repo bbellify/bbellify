@@ -4,6 +4,8 @@ In past lives, I've been a hotel manager, a small business manager, a teacher (p
 
 Now I'm a web developer building tools for sovereignty. 
 
+</br>
+
 ## 🔭 I’m currently working on:
   - <a href='https://www.sucsandsched.netlify.app'>sucs and sched</a>, a running club web app
     - <a href='https://github.com/bbellify/sucsandsched-frontend'>frontend</a>
