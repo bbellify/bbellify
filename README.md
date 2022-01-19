@@ -12,7 +12,13 @@ Now I'm a web developer building tools for sovereignty.
 
 </br>
 
-<!-- ## 🌱 I’m currently learning ... -->
+<!-- 
+
+## 🌱 I’m currently learning:
+ - hoon 
+
+</br>
+-->
 
 ## 🔌 Skills/Interests:
 - ✍️ Languages: JavaScript, SQL, HTML, and CSS
@@ -25,5 +31,9 @@ Now I'm a web developer building tools for sovereignty.
 
 - 👾 Interests: Bitcoin, Lightning, Urbit, Umbrel, BTCPayServer
 
+</br>
+
 ## 📌 Things I've never done but would like to try:
   - copy writing
+
+</br>
