@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## web developer building tools for sovereignty
+# Web developer building tools for sovereignty
 
 ## 🔭 I’m currently working on ...
   - <a href='https://www.sucsandsched.netlify.app'>sucs and sched</a>, a running club web app
@@ -21,11 +21,10 @@ Here are some ideas to get you started:
     - <a href='https://github.com/bbellify/sucsandsched-backend'>backend</a>
   - <a href='http://www.hypotenusehandmade.shop/'>hypotenuse handmade</a>, a bitcoin native small business web store
 
-### 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 
-### 🔌 Skills/Interests
-
+## 🔌 Skills/Interests:
 - ✍️ Languages: JavaScript, SQL, HTML, and CSS
 
 - ⚙️ Frameworks: React.js, Express.js, Jest
@@ -36,5 +35,5 @@ Here are some ideas to get you started:
 
 
 
-### 📌 Things I've never done but would like to try ...
+## 📌 Things I've never done but would like to try ...
   - copy writing
