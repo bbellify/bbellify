@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Web developer building tools for sovereignty
+# Brian B
+
+I'm a web developer building tools for sovereignty. 
 
 ## 🔭 I’m currently working on ...
   - <a href='https://www.sucsandsched.netlify.app'>sucs and sched</a>, a running club web app
