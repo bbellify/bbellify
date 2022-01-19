@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 ### 🔌 Skills/Interests
 
-✍️ Languages: JavaScript, SQL, HTML, and CSS
+- ✍️ Languages: JavaScript, SQL, HTML, and CSS
 
-⚙️ Frameworks: React.js, Express.js, Jest
+- ⚙️ Frameworks: React.js, Express.js, Jest
 
-📚 Libraries: BootStrap, Redux.js, SuperTest, Knex.js, Yup
+- 📚 Libraries: BootStrap, Redux.js, SuperTest, Knex.js, Yup
 
-🛠️ Tools: Node.js, PostgreSQL, SQLite, VSCode, Postman
+- 🛠️ Tools: Node.js, PostgreSQL, SQLite, VSCode, Postman
 
 
 
