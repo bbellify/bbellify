@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - 🛠️ Tools: Node.js, PostgreSQL, SQLite, VSCode, Postman
 
+- 👾 Interests: Bitcoin, Lightning, Urbit, Umbrel, BTCPayServer
+
 
 
 ## 📌 Things I've never done but would like to try ...
