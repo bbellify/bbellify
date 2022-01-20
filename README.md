@@ -29,7 +29,7 @@ Join me across the new frontier.
 -->
 
 ## 🔌 Skills/Interests:
-- ✍️ Languages: JavaScript, SQL, HTML, and CSS
+- Languages: JavaScript, SQL, HTML, and CSS
 
 - Frameworks: React.js, Express.js, Jest
 
