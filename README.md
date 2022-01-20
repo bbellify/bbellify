@@ -1,8 +1,12 @@
 # Brian B
 
-In past lives, I've been a hotel manager, a small business manager, a teacher (pre-K, college), and a bunch of other things.
+Nomadic intellectualism has led me winding through many lives: I've been a teacher (pre-K, college) and a soap maker, a hotel manager and a small business manager. I'm a runner and a guitar player.
 
-Now I'm a web developer building tools for sovereignty. 
+In addition to plain curiosity, a central motivation of my studies has always been the following question: how does one live a good life? It is increasingly clear to me that we can no longer ignore certain novelties of modernity, forces that would have us punt on such a question in exchange for infinite scrolling: hyper-stimulation, garbage media, predatory consumer tech, etc.
+
+Now my basecamp is web development. It is exhilirating and empowering, and is a stepping stone on a path toward a vision. I want to take back my computing, tack back my tech. I want to build tools for personal sovereignty. 
+
+I want to cross the new frontier.
 
 </br>
 
