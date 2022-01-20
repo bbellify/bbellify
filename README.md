@@ -8,7 +8,7 @@ In addition to plain curiosity, a central motivation of my studies has always be
 
 Now my basecamp is web development. It is exhilarating and empowering, and a stepping stone on a path toward a vision. I'm taking back my computing, taking back my tech. 
 
-I'm crossing the new frontier.
+Join me across the new frontier.
 
 </br>
 
