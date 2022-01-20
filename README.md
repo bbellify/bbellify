@@ -17,6 +17,7 @@ Join me across the new frontier.
     - <a href='https://github.com/bbellify/sucsandsched-frontend'>frontend</a>
     - <a href='https://github.com/bbellify/sucsandsched-backend'>backend</a>
   - <a href='http://www.hypotenusehandmade.shop/'>hypotenuse handmade</a>, a bitcoin native small business web store
+    - <a href='https://github.com/bbellify/hypotenusehandmade-frontend'>frontend</a>
 
 </br>
 
