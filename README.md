@@ -10,12 +10,13 @@ Now my basecamp is web development. It is exhilarating and empowering, and a ste
 
 Join me across the new frontier.
 
+</br>
+
+<div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/>
-
-
-</br>
+</div>
 
 ## 🔭 I’m currently working on:
   - <a href='https://www.sucsandsched.netlify.app'>sucs and sched</a>, a running club web app
