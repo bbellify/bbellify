@@ -1,12 +1,12 @@
 # Brian B
 
-I am a full stack web developer building tools for personal sovereignty.
+I am a full stack web developer building tools for sovereignty.
 
 Nomadic intellectualism has led me winding through many lives: I've been a teacher (pre-K, college) and a soap maker, a hotel manager and a small business manager. I'm a runner and a guitar player.
 
 In addition to plain curiosity, a central motivation for this has always been simply seeking what it means to live a good life. It is clear we can no longer ignore certain novelties of modernity, forces that would have abandon seeking the good in exchange for infinite scrolling: hyper-stimulation, garbage media, predatory consumer tech, etc. You know what I'm talking about.
 
-Now my basecamp is web development. It is exhilarating and empowering, and a stepping stone on a path toward a vision. I'm taking back my computing, taking back my tech.
+Now my basecamp is web development. It is exhilarating and empowering, and a stepping stone on a path toward a vision.
 
 Join me across the new frontier.
 
