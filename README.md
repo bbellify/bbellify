@@ -50,5 +50,3 @@ Find me across the new frontier.
 
 ## 📌 Things I've never done but would like to try:
   - copy writing
-
-</br>
