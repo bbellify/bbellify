@@ -20,10 +20,11 @@ Find me across the new frontier.
 
 ## 🔭 I’m currently working on:
   - <a href='https://www.sucsandsched.netlify.app'>sucs and sched</a>, a running club web app
-    - <a href='https://github.com/bbellify/sucsandsched-frontend'>frontend</a>
-    - <a href='https://github.com/bbellify/sucsandsched-backend'>backend</a>
+    - <a href='https://github.com/bbellify/sucsandsched-frontend'>front end</a>
+    - <a href='https://github.com/bbellify/sucsandsched-backend'>back end</a>
   - <a href='http://www.hypotenusehandmade.shop/'>hypotenuse handmade</a>, a bitcoin native small business web store
-    - <a href='https://github.com/bbellify/hypotenusehandmade-frontend'>frontend</a>
+    - <a href='https://github.com/bbellify/hypotenusehandmade-frontend'>front end</a>
+    - <a href='https://github.com/bbellify/hypotenusehandmade-backend'>back end</a>
 
 </br>
 
