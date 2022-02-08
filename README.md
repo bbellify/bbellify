@@ -39,11 +39,11 @@ Find me across the new frontier.
 ## 🔌 Skills/Interests:
 - Languages: JavaScript, SQL, HTML, and CSS
 
-- Frameworks: React.js, Express.js, Jest
+- Frameworks: React, Node, Express, Jest
 
-- Libraries: BootStrap, Redux.js, SuperTest, Knex.js, Yup
+- Databases: PostgreSQL, MariaDB, MongoDB, SQLite 
 
-- Tools: Node.js, PostgreSQL, SQLite, VSCode, Postman
+- Libraries/Tools: BootStrap, Ant Design, Redux, SuperTest, Knex, Yup, Postman, HTTPie
 
 - Interests: Bitcoin, Lightning, Urbit, Umbrel, BTCPayServer
 
